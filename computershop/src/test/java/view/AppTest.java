@@ -1,4 +1,4 @@
-package dev.celia;
+package view;
 
 import org.junit.jupiter.api.Test;
 
