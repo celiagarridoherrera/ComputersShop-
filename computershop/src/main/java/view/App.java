@@ -1,4 +1,4 @@
-package dev.celia;
+package view;
 
 /**
  * Hello world!
